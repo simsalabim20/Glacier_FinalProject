@@ -1,3 +1,8 @@
+Everything important is in CNN_classification
+
+
+
+
 Jonas files and solutions
 
 Jonas Thickness_NN_crude.ipynb. 
